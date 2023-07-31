@@ -1,0 +1,26 @@
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\bin\Debug\gamePacOop.exe.config
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\bin\Debug\gamePacOop.exe
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\bin\Debug\gamePacOop.pdb
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\bin\Debug\EZInput.dll
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\bin\Debug\EZInput.xml
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.AssemblyReference.cache
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\obj\Debug\gamePacOop.Form1.resources
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\obj\Debug\gamePacOop.Properties.Resources.resources
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.GenerateResource.cache
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.CoreCompileInputs.cache
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.CopyComplete
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\obj\Debug\gamePacOop.exe
+H:\2ndlaptp\pictures\gamePacOop 2\gamePacOop\gamePacOop\obj\Debug\gamePacOop.pdb
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\bin\Debug\gamePacOop.exe.config
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\bin\Debug\gamePacOop.exe
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\bin\Debug\gamePacOop.pdb
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\bin\Debug\EZInput.dll
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\bin\Debug\EZInput.xml
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.AssemblyReference.cache
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\obj\Debug\gamePacOop.Form1.resources
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\obj\Debug\gamePacOop.Properties.Resources.resources
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.GenerateResource.cache
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.CoreCompileInputs.cache
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\obj\Debug\gamePacOop.csproj.CopyComplete
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\obj\Debug\gamePacOop.exe
+H:\2ndlaptp\pictures\gamePacOop 2 - Copy\gamePacOop\gamePacOop\obj\Debug\gamePacOop.pdb
